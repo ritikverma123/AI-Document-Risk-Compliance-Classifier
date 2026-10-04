@@ -1,0 +1,61 @@
+document_id,label,text
+DOC-001,Low Risk,General office stationery request for printer paper pens and notebooks. No customer data or financial information is included.
+DOC-002,Low Risk,Internal meeting agenda for the weekly operations team. The document contains routine discussion points and action items.
+DOC-003,Low Risk,Office maintenance checklist covering lights cleaning desks and common area repairs.
+DOC-004,Low Risk,Employee birthday celebration notice with date time and venue for an internal event.
+DOC-005,Low Risk,Routine inventory list for office chairs tables keyboards and monitors.
+DOC-006,Low Risk,General training schedule for employees covering communication teamwork and time management.
+DOC-007,Low Risk,Internal newsletter describing company achievements team activities and upcoming office events.
+DOC-008,Low Risk,Basic travel itinerary for an employee attending a general business conference. No confidential information is present.
+DOC-009,Low Risk,Routine vendor contact list containing company names and publicly available business phone numbers.
+DOC-010,Low Risk,Office seating plan showing department names and desk locations without personal sensitive information.
+DOC-011,Low Risk,Standard purchase request for printer cartridges and office supplies.
+DOC-012,Low Risk,Meeting room booking schedule for internal departments and routine events.
+DOC-013,Low Risk,General employee onboarding checklist covering email setup access card and workplace orientation.
+DOC-014,Low Risk,Public product brochure containing general product features and marketing descriptions.
+DOC-015,Low Risk,Routine equipment inspection record for computers and office furniture.
+DOC-016,Medium Risk,"Internal project plan includes department budgets, delivery milestones, vendor estimates and non-public operational information."
+DOC-017,Medium Risk,"Employee performance review contains job performance observations, attendance details and manager comments."
+DOC-018,Medium Risk,"Supplier contract draft includes pricing, payment terms, delivery obligations and commercial conditions."
+DOC-019,Medium Risk,"Internal sales report contains monthly revenue figures, regional performance and customer account summaries."
+DOC-020,Medium Risk,"Employee reimbursement report contains expense amounts, travel dates and manager approval details."
+DOC-021,Medium Risk,"Business continuity plan describes internal processes, recovery priorities and operational dependencies."
+DOC-022,Medium Risk,Customer support report contains ticket summaries and internal resolution notes without highly sensitive identifiers.
+DOC-023,Medium Risk,"Internal hiring plan includes salary ranges, open positions and recruiting targets for the next quarter."
+DOC-024,Medium Risk,Quarterly budget forecast includes department spending plans and internal financial assumptions.
+DOC-025,Medium Risk,"Vendor evaluation document compares supplier quality, pricing, delivery performance and contract terms."
+DOC-026,Medium Risk,"Internal audit working paper summarizes process gaps, control observations and remediation owners."
+DOC-027,Medium Risk,"Project risk register lists internal risks, owners, probability scores and mitigation plans."
+DOC-028,Medium Risk,Procurement comparison sheet includes vendor quotes and internal purchasing recommendations.
+DOC-029,Medium Risk,Operations report contains non-public production volumes and service-level performance metrics.
+DOC-030,Medium Risk,"Internal strategy presentation includes market assumptions, planned initiatives and confidential business targets."
+DOC-031,High Risk,"The document contains customer bank account numbers, card information and transaction details that must be protected."
+DOC-032,High Risk,"Payroll file contains employee salary, bank account details, tax identifiers and other sensitive personal information."
+DOC-033,High Risk,"The incident report includes exposed passwords, authentication tokens and confidential system credentials."
+DOC-034,High Risk,Medical benefits document contains employee health information and sensitive insurance details.
+DOC-035,High Risk,"Customer identity file includes government identification numbers, dates of birth and private addresses."
+DOC-036,High Risk,The security report lists privileged administrator credentials and access keys for production systems.
+DOC-037,High Risk,A data breach investigation includes personally identifiable information and confidential customer records.
+DOC-038,High Risk,The document contains unencrypted financial account numbers and authentication information.
+DOC-039,High Risk,"Employee tax records include tax identification numbers, salary information and private banking details."
+DOC-040,High Risk,"Confidential legal case file contains personal identifiers, financial records and restricted correspondence."
+DOC-041,High Risk,"Production database export includes customer names, emails, phone numbers and payment information."
+DOC-042,High Risk,"Sensitive HR investigation includes employee personal data, allegations and confidential interview notes."
+DOC-043,High Risk,"The attachment contains API secrets, private keys and credentials used by internal applications."
+DOC-044,High Risk,"Customer verification records include identity documents, government IDs and sensitive financial information."
+DOC-045,High Risk,Confidential security incident notes contain privileged credentials and details of an active vulnerability.
+DOC-046,Policy-Specific,The document states that customer personal data must be retained only for the approved retention period under company privacy policy.
+DOC-047,Policy-Specific,This procedure requires approval before transferring personal information to a third-party service provider.
+DOC-048,Policy-Specific,The policy document requires encryption of sensitive customer data both in transit and at rest.
+DOC-049,Policy-Specific,The contract includes a data processing clause requiring compliance with the organization's privacy and retention policy.
+DOC-050,Policy-Specific,The document describes mandatory access reviews for systems containing regulated customer information.
+DOC-051,Policy-Specific,This procedure requires legal and compliance approval before sharing confidential records outside the organization.
+DOC-052,Policy-Specific,The document specifies a seven-year retention rule for selected financial records under the internal compliance policy.
+DOC-053,Policy-Specific,The policy requires employees to report suspected data breaches to the security and compliance team immediately.
+DOC-054,Policy-Specific,This vendor agreement requires documented security controls and audit rights for processing customer information.
+DOC-055,Policy-Specific,The document defines compliance responsibilities for handling personally identifiable information and restricted records.
+DOC-056,Policy-Specific,The procedure requires secure deletion of customer records after the approved retention period expires.
+DOC-057,Policy-Specific,The policy mandates least-privilege access for employees who handle sensitive business or customer information.
+DOC-058,Policy-Specific,The document requires annual compliance training for staff who process regulated information.
+DOC-059,Policy-Specific,The agreement requires notification of a security incident within the defined contractual compliance window.
+DOC-060,Policy-Specific,"The compliance checklist requires evidence of encryption, access control, retention and secure disposal."
